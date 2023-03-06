@@ -19,9 +19,3 @@ mein hun mere sath bhi mein hun <br><br>
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MirnazAli&theme=tokyonight)
 
 ---
-
-
-
-
-
-
