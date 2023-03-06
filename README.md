@@ -16,5 +16,5 @@ I am particularly interested in using my programming skills to develop intellige
 *
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirnazAli&layout=compact)](https://github.com/MirnazAli/github-readme-stats)
- 
+
 *
