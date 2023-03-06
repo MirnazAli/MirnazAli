@@ -7,15 +7,10 @@
 mein hun mere sath bhi mein hun <br><br>
 
 
----
-
- 📶 Stats:<br><br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirnazAli&theme=dark&layout=compact&align=right&width=40%)](https://github.com/MirnazAli/github-readme-stats)
+![Mirnaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirnazAli&show_icons=true&theme=radical)
+  
+*
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirnazAli&layout=compact)](https://github.com/MirnazAli/github-readme-stats)
  
- ---
-
-
-[![Mirnaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirnazAli)](https://github.com/MirnazAli/github-readme-stats) <br><br>
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MirnazAli&theme=tokyonight)
-
----
+*
