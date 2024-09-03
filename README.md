@@ -4,7 +4,7 @@
 
 <h2>About me</h2>
 
-I am a third year student of Mechanical Engineering with a Computer Science Minor. I have a passion for Robotics and Machine Learning and have been in its learning process for years. My interest in programming was born in my high school, when I started to interact with computer on a daily basis, giving me command over languages like Java and Visual Basic.In addition to my coursework, I continued to work on my skills, and used Android Studio for making some basic applications.
+I am a graduate student of Mechanical Engineering with a Computer Science Minor. I have a passion for Robotics and Machine Learning and have been in its learning process for years. My interest in programming was born in my high school, when I started to interact with computer on a daily basis, giving me command over languages like Java and Visual Basic.In addition to my coursework, I continued to work on my skills, and used Android Studio for making some basic applications.
 <br><br>
 My background in both mechanical engineering and computer science has given him a unique perspective on the intersection of the two fields and how they can be used together to create innovative solutions.
 <br><br>
