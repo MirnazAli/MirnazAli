@@ -10,11 +10,3 @@ My background in both mechanical engineering and computer science has given him 
 <br><br>
 I am particularly interested in using my programming skills to develop intelligent systems that can interact with the physical world, such as robots that can navigate and perform tasks autonomously. He is excited about the potential of machine learning and artificial intelligence to revolutionize industries and create new opportunities for innovation.
 <br><br>
-***
-![Mirnaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirnazAli&show_icons=true&theme=radical)
-  
-*
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirnazAli&layout=compact)](https://github.com/MirnazAli/github-readme-stats)
-
-*
